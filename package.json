@@ -1,0 +1,21 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8",
+    "azure-iot-device": "^1.1.16",
+    "azure-iot-device-mqtt": "^1.1.16",
+    "dotenv": "^8.2.0",
+    "johnny-five": "^0.11.3",
+    "moment": "^2.18.1",
+    "particle-io": "^0.14.0"
+  }
+}
